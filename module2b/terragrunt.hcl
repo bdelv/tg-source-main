@@ -10,7 +10,7 @@ dependency "depend_module_1" {
 }
 
 terraform {
-  source = "git@github.com:bdelv/tg-source-module2//"
+  source = "git@github.com:bdelv/tg-source-module2.git//module2b/"
 }
 
   // -------------------- inputs ---------------------

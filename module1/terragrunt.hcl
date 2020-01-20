@@ -3,7 +3,7 @@ include {
 }
 
 terraform {
-  source = "git@github.com:bdelv/tg-source-module1//"
+  source = "git@github.com:bdelv/tg-source-module1"
 }
 
   // -------------------- inputs ---------------------
